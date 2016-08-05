@@ -1,0 +1,111 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:dubbo="http://code.alibabatech.com/schema/dubbo"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+	http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-2.5.xsd
+	http://code.alibabatech.com/schema/dubbo http://code.alibabatech.com/schema/dubbo/dubbo.xsd">
+    
+    <description>Spring数据访问层及其他配置 </description>
+    <context:component-scan base-package="com.shalong" />
+    
+    <context:property-placeholder location="classpath:jdbc.properties" />
+
+	 <bean id="SLZP_DUser_M" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+		<property name="url" value="${jdbc.SLZP_DUser_M.url}" />
+	    <property name="username" value="${jdbc.SLZP_DUser_M.username}" />
+	    <property name="password" value="${jdbc.SLZP_DUser_M.password}" />
+	    <property name="driverClassName" value="${jdbc.dataSource.driverClassName}" />
+	    <property name="initialSize" value="${jdbc.dataSource.initialSize}" />
+	    <property name="minIdle" value="${jdbc.dataSource.minIdle}" />
+	    <property name="maxActive" value="${jdbc.dataSource.maxActive}" />
+	    <property name="minEvictableIdleTimeMillis" value="${jdbc.dataSource.minEvictableIdleTimeMillis}" />
+	    <property name="timeBetweenEvictionRunsMillis" value="${jdbc.dataSource.timeBetweenEvictionRunsMillis}" />
+	    <property name="testWhileIdle" value="${jdbc.dataSource.testWhileIdle}" />
+	    <property name="validationQuery" value="${jdbc.dataSource.validationQuery}" />
+	    <property name="testOnBorrow" value="${jdbc.dataSource.testOnBorrow}" />
+        <property name="testOnReturn" value="${jdbc.dataSource.testOnReturn}" />
+	</bean>
+	
+	<bean id="SLZP_DUser_S" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+		<property name="url" value="${jdbc.SLZP_DUser_S.url}" />
+	    <property name="username" value="${jdbc.SLZP_DUser_S.username}" />
+	    <property name="password" value="${jdbc.SLZP_DUser_S.password}" />
+	    <property name="driverClassName" value="${jdbc.dataSource.driverClassName}" />
+	    <property name="initialSize" value="${jdbc.dataSource.initialSize}" />
+	    <property name="minIdle" value="${jdbc.dataSource.minIdle}" />
+	    <property name="maxActive" value="${jdbc.dataSource.maxActive}" />
+	    <property name="minEvictableIdleTimeMillis" value="${jdbc.dataSource.minEvictableIdleTimeMillis}" />
+	    <property name="timeBetweenEvictionRunsMillis" value="${jdbc.dataSource.timeBetweenEvictionRunsMillis}" />
+	    <property name="testWhileIdle" value="${jdbc.dataSource.testWhileIdle}" />
+	    <property name="validationQuery" value="${jdbc.dataSource.validationQuery}" />
+	    <property name="testOnBorrow" value="${jdbc.dataSource.testOnBorrow}" />
+        <property name="testOnReturn" value="${jdbc.dataSource.testOnReturn}" />
+	</bean>
+	
+	 <bean id="SLZP_MT_M" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+		<property name="url" value="${jdbc.SLZP_MT_M.url}" />
+	    <property name="username" value="${jdbc.SLZP_MT_M.username}" />
+	    <property name="password" value="${jdbc.SLZP_MT_M.password}" />
+	    <property name="driverClassName" value="${jdbc.dataSource.driverClassName}" />
+	    <property name="initialSize" value="${jdbc.dataSource.initialSize}" />
+	    <property name="minIdle" value="${jdbc.dataSource.minIdle}" />
+	    <property name="maxActive" value="${jdbc.dataSource.maxActive}" />
+	    <property name="minEvictableIdleTimeMillis" value="${jdbc.dataSource.minEvictableIdleTimeMillis}" />
+	    <property name="timeBetweenEvictionRunsMillis" value="${jdbc.dataSource.timeBetweenEvictionRunsMillis}" />
+	    <property name="testWhileIdle" value="${jdbc.dataSource.testWhileIdle}" />
+	    <property name="validationQuery" value="${jdbc.dataSource.validationQuery}" />
+	    <property name="testOnBorrow" value="${jdbc.dataSource.testOnBorrow}" />
+        <property name="testOnReturn" value="${jdbc.dataSource.testOnReturn}" />
+	</bean>
+	
+	<bean id="SLZP_MT_S" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+		<property name="url" value="${jdbc.SLZP_MT_S.url}" />
+	    <property name="username" value="${jdbc.SLZP_MT_S.username}" />
+	    <property name="password" value="${jdbc.SLZP_MT_S.password}" />
+	    <property name="driverClassName" value="${jdbc.dataSource.driverClassName}" />
+	    <property name="initialSize" value="${jdbc.dataSource.initialSize}" />
+	    <property name="minIdle" value="${jdbc.dataSource.minIdle}" />
+	    <property name="maxActive" value="${jdbc.dataSource.maxActive}" />
+	    <property name="minEvictableIdleTimeMillis" value="${jdbc.dataSource.minEvictableIdleTimeMillis}" />
+	    <property name="timeBetweenEvictionRunsMillis" value="${jdbc.dataSource.timeBetweenEvictionRunsMillis}" />
+	    <property name="testWhileIdle" value="${jdbc.dataSource.testWhileIdle}" />
+	    <property name="validationQuery" value="${jdbc.dataSource.validationQuery}" />
+	    <property name="testOnBorrow" value="${jdbc.dataSource.testOnBorrow}" />
+        <property name="testOnReturn" value="${jdbc.dataSource.testOnReturn}" />
+	</bean>
+	
+	 <bean id="SLZP_ORDER_M" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+		<property name="url" value="${jdbc.SLZP_ORDER_M.url}" />
+	    <property name="username" value="${jdbc.SLZP_ORDER_M.username}" />
+	    <property name="password" value="${jdbc.SLZP_ORDER_M.password}" />
+	    <property name="driverClassName" value="${jdbc.dataSource.driverClassName}" />
+	    <property name="initialSize" value="${jdbc.dataSource.initialSize}" />
+	    <property name="minIdle" value="${jdbc.dataSource.minIdle}" />
+	    <property name="maxActive" value="${jdbc.dataSource.maxActive}" />
+	    <property name="minEvictableIdleTimeMillis" value="${jdbc.dataSource.minEvictableIdleTimeMillis}" />
+	    <property name="timeBetweenEvictionRunsMillis" value="${jdbc.dataSource.timeBetweenEvictionRunsMillis}" />
+	    <property name="testWhileIdle" value="${jdbc.dataSource.testWhileIdle}" />
+	    <property name="validationQuery" value="${jdbc.dataSource.validationQuery}" />
+	    <property name="testOnBorrow" value="${jdbc.dataSource.testOnBorrow}" />
+        <property name="testOnReturn" value="${jdbc.dataSource.testOnReturn}" />
+	</bean>
+	
+	<bean id="SLZP_ORDER_S" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">
+		<property name="url" value="${jdbc.SLZP_ORDER_S.url}" />
+	    <property name="username" value="${jdbc.SLZP_ORDER_S.username}" />
+	    <property name="password" value="${jdbc.SLZP_ORDER_S.password}" />
+	    <property name="driverClassName" value="${jdbc.dataSource.driverClassName}" />
+	    <property name="initialSize" value="${jdbc.dataSource.initialSize}" />
+	    <property name="minIdle" value="${jdbc.dataSource.minIdle}" />
+	    <property name="maxActive" value="${jdbc.dataSource.maxActive}" />
+	    <property name="minEvictableIdleTimeMillis" value="${jdbc.dataSource.minEvictableIdleTimeMillis}" />
+	    <property name="timeBetweenEvictionRunsMillis" value="${jdbc.dataSource.timeBetweenEvictionRunsMillis}" />
+	    <property name="testWhileIdle" value="${jdbc.dataSource.testWhileIdle}" />
+	    <property name="validationQuery" value="${jdbc.dataSource.validationQuery}" />
+	    <property name="testOnBorrow" value="${jdbc.dataSource.testOnBorrow}" />
+        <property name="testOnReturn" value="${jdbc.dataSource.testOnReturn}" />
+	</bean>
+	
+	
+</beans>

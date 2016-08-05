@@ -1,0 +1,1239 @@
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 5 个文件
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 2 个文件
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 2 个文件
+D:UserService.thrift
+复制了 1 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 5 个文件
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 2 个文件
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 2 个文件
+D:UserService.thrift
+复制了 1 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 5 个文件
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 2 个文件
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 2 个文件
+D:CommonService.thrift
+D:UserService.thrift
+复制了 2 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\hyde\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 6 个文件
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 3 个文件
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 4 个文件
+D:CommonService.thrift
+D:RedisKey.thrift
+D:UserService.thrift
+复制了 3 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 6 个文件
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 3 个文件
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 4 个文件
+D:CommonService.thrift
+D:RedisKey.thrift
+D:UserService.thrift
+复制了 3 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 7 个文件
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 4 个文件
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 6 个文件
+D:CommonService.thrift
+D:RedisKey.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 4 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 7 个文件
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 4 个文件
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 6 个文件
+D:CommonService.thrift
+D:RedisKey.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 4 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 8 个文件
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 5 个文件
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 8 个文件
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 5 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 8 个文件
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 5 个文件
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 8 个文件
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 5 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 10 个文件
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 7 个文件
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 10 个文件
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 5 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 10 个文件
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 7 个文件
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 10 个文件
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 5 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 10 个文件
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 7 个文件
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 10 个文件
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 5 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 16 个文件
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 9 个文件
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 12 个文件
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 6 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 16 个文件
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 9 个文件
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 12 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 16 个文件
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 9 个文件
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 12 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\Advertisement.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\AdvertisementService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementShowOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 21 个文件
+gen-php\application\libraries\AdvertisementService\AdvertisementService.php
+gen-php\application\libraries\AdvertisementService\Types.php
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 11 个文件
+gen-cocoa\Advertisement.h
+gen-cocoa\Advertisement.m
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 14 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\Advertisement.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\AdvertisementService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementShowOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 21 个文件
+gen-php\application\libraries\AdvertisementService\AdvertisementService.php
+gen-php\application\libraries\AdvertisementService\Types.php
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 11 个文件
+gen-cocoa\Advertisement.h
+gen-cocoa\Advertisement.m
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 14 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\Advertisement.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\AdvertisementService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementShowOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 21 个文件
+gen-php\application\libraries\AdvertisementService\AdvertisementService.php
+gen-php\application\libraries\AdvertisementService\Types.php
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 11 个文件
+gen-cocoa\Advertisement.h
+gen-cocoa\Advertisement.m
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 14 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\Advertisement.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\AdvertisementService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementShowOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 21 个文件
+gen-php\application\libraries\AdvertisementService\AdvertisementService.php
+gen-php\application\libraries\AdvertisementService\Types.php
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 11 个文件
+gen-cocoa\Advertisement.h
+gen-cocoa\Advertisement.m
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 14 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\Advertisement.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\AdvertisementService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementShowOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 21 个文件
+gen-php\application\libraries\AdvertisementService\AdvertisementService.php
+gen-php\application\libraries\AdvertisementService\Types.php
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 11 个文件
+gen-cocoa\Advertisement.h
+gen-cocoa\Advertisement.m
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 14 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\Advertisement.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\AdvertisementService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementShowOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 21 个文件
+gen-php\application\libraries\AdvertisementService\AdvertisementService.php
+gen-php\application\libraries\AdvertisementService\Types.php
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 11 个文件
+gen-cocoa\Advertisement.h
+gen-cocoa\Advertisement.m
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 14 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\Advertisement.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\AdvertisementService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementShowOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 21 个文件
+gen-php\application\libraries\AdvertisementService\AdvertisementService.php
+gen-php\application\libraries\AdvertisementService\Types.php
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 11 个文件
+gen-cocoa\Advertisement.h
+gen-cocoa\Advertisement.m
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 14 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\Advertisement.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\AdvertisementService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementShowOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 21 个文件
+gen-php\application\libraries\AdvertisementService\AdvertisementService.php
+gen-php\application\libraries\AdvertisementService\Types.php
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 11 个文件
+gen-cocoa\Advertisement.h
+gen-cocoa\Advertisement.m
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 14 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\Advertisement.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\AdvertisementService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementShowOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 21 个文件
+gen-php\application\libraries\AdvertisementService\AdvertisementService.php
+gen-php\application\libraries\AdvertisementService\Types.php
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 11 个文件
+gen-cocoa\Advertisement.h
+gen-cocoa\Advertisement.m
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 14 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\Advertisement.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\AdvertisementService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\advertisement\GetAdvertisementShowOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\ConstConfigConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\consts\RedisKeyConstants.java
+gen-java\com\shalong\zhangpai\rsc\thrift\enums\ReturnCode.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\CountyOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetCountyByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\GetRedisCountyAllByCityIdOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\region\RegionService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\CommonService.java
+gen-java\com\shalong\zhangpai\rsc\thrift\service\ServiceMainInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\GetUserOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginInput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\LoginOutput.java
+gen-java\com\shalong\zhangpai\rsc\thrift\user\UserService.java
+复制了 21 个文件
+gen-php\application\libraries\AdvertisementService\AdvertisementService.php
+gen-php\application\libraries\AdvertisementService\Types.php
+gen-php\application\libraries\CommonService\CommonService.php
+gen-php\application\libraries\CommonService\Types.php
+gen-php\application\libraries\ConstConfig\Types.php
+gen-php\application\libraries\RedisKeyConstants\Types.php
+gen-php\application\libraries\RegionService\RegionService.php
+gen-php\application\libraries\RegionService\Types.php
+gen-php\application\libraries\ReturnCode\Types.php
+gen-php\application\libraries\UserClassService\Types.php
+gen-php\application\libraries\UserClassService\UserService.php
+复制了 11 个文件
+gen-cocoa\Advertisement.h
+gen-cocoa\Advertisement.m
+gen-cocoa\CommonService.h
+gen-cocoa\CommonService.m
+gen-cocoa\ConstConfig.h
+gen-cocoa\ConstConfig.m
+gen-cocoa\RedisKey.h
+gen-cocoa\RedisKey.m
+gen-cocoa\RegionService.h
+gen-cocoa\RegionService.m
+gen-cocoa\ReturnCode.h
+gen-cocoa\ReturnCode.m
+gen-cocoa\UserService.h
+gen-cocoa\UserService.m
+复制了 14 个文件
+D:Advertisement.thrift
+D:CommonService.thrift
+D:ConstConfig.thrift
+D:RedisKey.thrift
+D:RegionService.thrift
+D:ReturnCode.thrift
+D:UserService.thrift
+复制了 7 个文件
+
+正在 Ping 127.0.0.1 具有 32 字节的数据:
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+来自 127.0.0.1 的回复: 字节=32 时间<1ms TTL=64
+
+127.0.0.1 的 Ping 统计信息:
+    数据包: 已发送 = 2，已接收 = 2，丢失 = 0 (0% 丢失)，
+往返行程的估计时间(以毫秒为单位):
+    最短 = 0ms，最长 = 0ms，平均 = 0ms

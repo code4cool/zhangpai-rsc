@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>     
+<!DOCTYPE urlrewrite PUBLIC "-//tuckey.org//DTD UrlRewrite 2.6//EN"     
+"http://tuckey.org/res/dtds/urlrewrite2.6.dtd">     
+   
+<!--     
+   
+Configuration file for UrlRewriteFilter     
+http://tuckey.org/urlrewrite/     
+   
+-->     
+<urlrewrite>     
+    <!--<rule>     
+        <from>^/([a-z]+)$</from>     
+        <to type= "forward" >/world.jsp?id=$1</to>     
+    </rule>-->  
+     <rule>     
+        <from>^/$</from>     
+        <to type= "forward" >/main/index.do</to>     
+    </rule> 
+     <rule>     
+        <from>^/region/$</from>     
+        <to type= "forward" >/main/region.do</to>     
+    </rule> 
+     
+     <rule>     
+        <from>^/user/$</from>     
+        <to type= "forward" >/main/user.do</to>     
+    </rule> 
+    <rule>     
+        <from>^/order/$</from>     
+        <to type= "forward" >/main/order.do</to>     
+    </rule> 
+    <rule>     
+        <from>^/commodity/$</from>     
+        <to type= "forward" >/main/commodity.do</to>     
+    </rule> 
+    <outbound-rule>     
+         
+        <from>/rewrite-status</from>     
+        <to>/test/status/</to>     
+    </outbound-rule>   
+</urlrewrite>   
+ 
