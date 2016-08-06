@@ -136,7 +136,8 @@
 	
 	<build>
 		
-	 <plugins>
+	 	<pluginManagement>
+	 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-assembly-plugin</artifactId>
@@ -208,8 +209,9 @@
             </configuration>
         </plugin> 
 		</plugins>
+	 	</pluginManagement>
 
-<defaultGoal>compile</defaultGoal>
+		<defaultGoal>compile</defaultGoal>
 
 		
 	</build>

@@ -56,7 +56,7 @@ public class MainController extends PublicData{
         input.setSize(100);
         transport.open();  
         String result = client.getCountyByCityId(input).toString();
-        System.out.println("¶ÁÈ¡·þÎñ¶ËÐÅÏ¢:" + result);  
+        System.out.println("result:" + result);  
         transport.close();  
         
         modelMap.addAttribute("getCountyByCityId", result);
@@ -102,7 +102,7 @@ public class MainController extends PublicData{
         
        
          
-        System.out.println("¶ÁÈ¡·þÎñ¶ËÐÅÏ¢:" + result);
+        System.out.println("ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢:" + result);
         
         modelMap.addAttribute("user", "result:"+result);
 		return "/main/user";
@@ -147,7 +147,7 @@ public class MainController extends PublicData{
         
        
          
-        System.out.println("¶ÁÈ¡·þÎñ¶ËÐÅÏ¢:" + result);
+        System.out.println("ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢:" + result);
         
         modelMap.addAttribute("user", "result:"+result);
 		return "/main/order";
@@ -188,7 +188,7 @@ public class MainController extends PublicData{
         
      
          
-        System.out.println("¶ÁÈ¡·þÎñ¶ËÐÅÏ¢:" + result);
+        System.out.println("ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢:" + result);
         
         modelMap.addAttribute("user", "result:"+result);
 		return "/main/commodity";

@@ -52,7 +52,7 @@ public class UserServiceTest {
 			e.printStackTrace();
 		}
       
-        System.out.println("读取服务端信息:" + result);  
+        System.out.println("result:" + result);  
  
 		
 	}

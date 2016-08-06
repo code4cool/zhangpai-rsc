@@ -4,6 +4,18 @@
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <dependent-module archiveName="zhangpai-rsc-service-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/zhangpai-rsc-service/zhangpai-rsc-service">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="zhangpai-rsc-model-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/zhangpai-rsc-model/zhangpai-rsc-model">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="zhangpai-rsc-thrift-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/zhangpai-rsc-thrift/zhangpai-rsc-thrift">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="zhangpai-rabbit-framework-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/zhangpai-rabbit-framework/zhangpai-rabbit-framework">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="zhangpai-app-bbms"/>
         <property name="java-output-path" value="/zhangpai-app-bbms/target/classes"/>
     </wb-module>

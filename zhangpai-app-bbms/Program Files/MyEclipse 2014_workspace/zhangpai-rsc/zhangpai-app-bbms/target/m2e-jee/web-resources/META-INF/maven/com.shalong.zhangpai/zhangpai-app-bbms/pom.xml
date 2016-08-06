@@ -5,7 +5,7 @@
   <artifactId>zhangpai-app-bbms</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>zhangpai-app-bbms Maven Webapp</name>
+  <name>zhangpai-app-bbms</name>
   <url>http://maven.apache.org</url>
    <properties>
         <!-- spring版本号 -->
