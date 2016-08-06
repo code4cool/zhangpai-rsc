@@ -8,13 +8,20 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../zhangpai-rsc-parant/pom.xml</relativePath>
 	</parent>
+	
 	<artifactId>zhangpai-rsc-thrift</artifactId>
-	<packaging>jar</packaging>
-
 	<name>zhangpai-rsc-thrift</name>
+	<packaging>jar</packaging>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
+		<!-- project dependency -->
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rabbit-framework</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
@@ -104,12 +111,10 @@
 			<groupId>com.caucho</groupId>
 			<artifactId>hessian</artifactId>
 		</dependency>
-		<dependency>
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rabbit-framework</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
+	
+	
 	<build>
 		<plugins>
 			<plugin>
@@ -130,7 +135,7 @@
 						</goals>
 						<phase>package</phase>
 						<configuration>
-						<finalName>zhangpai-rsc-thrift</finalName>
+							<finalName>zhangpai-rsc-thrift</finalName>
 							<includes>
 								<include>**/*.class</include>
 							</includes>
@@ -140,4 +145,5 @@
 			</plugin>
 		</plugins>
 	</build>
+	
 </project>

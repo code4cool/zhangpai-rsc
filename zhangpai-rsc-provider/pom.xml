@@ -8,18 +8,18 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../zhangpai-rsc-parant/pom.xml</relativePath>
 	</parent>
-	<artifactId>zhangpai-rsc-provider</artifactId>
-	 
 
+	<artifactId>zhangpai-rsc-provider</artifactId>
 	<name>zhangpai-rsc-provider</name>
 	<url>http://maven.apache.org</url>
-	
-		<properties>
+
+	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
-	
-	 
+
+
 	<dependencies>
+		<!-- project dependency -->
 		<dependency>
 			<groupId>zhangpai-rsc</groupId>
 			<artifactId>zhangpai-rabbit-framework</artifactId>
@@ -30,7 +30,7 @@
 			<artifactId>zhangpai-rsc-model</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		 <dependency>
+		<dependency>
 			<groupId>zhangpai-rsc</groupId>
 			<artifactId>zhangpai-rsc-service</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
@@ -40,7 +40,7 @@
 			<artifactId>zhangpai-rsc-thrift</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
-		 
+
 		<dependency>
 			<groupId>org.apache.thrift</groupId>
 			<artifactId>libthrift</artifactId>
@@ -54,7 +54,7 @@
 			<artifactId>druid</artifactId>
 			<version>0.2.9</version>
 		</dependency>
-		 
+
 		<dependency>
 			<groupId>commons-codec</groupId>
 			<artifactId>commons-codec</artifactId>
@@ -67,7 +67,7 @@
 			<groupId>commons-logging</groupId>
 			<artifactId>commons-logging</artifactId>
 		</dependency>
-		 
+
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
@@ -84,12 +84,12 @@
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-log4j12</artifactId>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>servlet-api</artifactId>
 		</dependency>
-		 
+
 		<dependency>
 			<groupId>com.github.sgroschupf</groupId>
 			<artifactId>zkclient</artifactId>
@@ -106,115 +106,104 @@
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-test</artifactId>
 		</dependency>
-		
-	 
 
- 
- 
+		<dependency>
+			<groupId>org.springframework.integration</groupId>
+			<artifactId>spring-integration-kafka</artifactId>
+			<version>1.2.0.RELEASE</version>
+		</dependency>
 
 
-
-        <dependency>
-            <groupId>org.springframework.integration</groupId>
-            <artifactId>spring-integration-kafka</artifactId>
-            <version>1.2.0.RELEASE</version>
-        </dependency>
-		
-		 
 	</dependencies>
-		<repositories>
-	    <repository><!-- Spring-kafka的资源库地址 -->
-	        <id>spring-milestones</id>
-	        <name>Spring Milestones</name>
-	        <url>https://repo.spring.io/libs-milestone</url>
-	        <snapshots>
-	            <enabled>false</enabled>
-	        </snapshots>
-	    </repository>
+	<repositories>
+		<repository><!-- Spring-kafka的资源库地址 -->
+			<id>spring-milestones</id>
+			<name>Spring Milestones</name>
+			<url>https://repo.spring.io/libs-milestone</url>
+			<snapshots>
+				<enabled>false</enabled>
+			</snapshots>
+		</repository>
 	</repositories>
-	
-	
+
 	<build>
-		
-	 	<pluginManagement>
-	 		<plugins>
-			<plugin>
-				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-assembly-plugin</artifactId>
-				<executions>
-					<execution>
-						<id>make-provider</id><!-- 随便一个名字 -->
-						<phase>package</phase><!-- 绑定到package生命周期阶段上 -->
-						<goals>
-							<goal>single</goal><!-- 只运行一次 -->
-						</goals>
-						<configuration>
-							<skipAssembly>false</skipAssembly><!-- 跳过这个执行器 -->
-							<finalName>zhangpai-rsc-provider</finalName>
-							<!-- 描述符文件 -->
-							<descriptors>
-								<descriptor>assembly_provider.xml</descriptor>
-							</descriptors>
-						</configuration>
-					</execution>
-					
-					<execution>
-						<id>make-consumer</id>
-						<phase>package</phase>
-						<goals>
-							<goal>single</goal>
-						</goals>
-						<configuration>
-							<finalName>zhangpai-rsc-provider</finalName>
-							<descriptors>
-								<descriptor>assembly_consumer.xml</descriptor>
-							</descriptors>
-						</configuration>
-					</execution>
-					
-					 
-				</executions>
-			</plugin>
-			
-			<plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-dependency-plugin</artifactId>
-            <executions>
-                <execution>
-                    <id>copy-dependencies</id>
-                    <phase>prepare-package</phase>
-                    <goals>
-                        <goal>copy-dependencies</goal>
-                    </goals>
-                    <configuration>
-                        <outputDirectory>target/lib</outputDirectory>
-                        <overWriteReleases>false</overWriteReleases>
-                        <overWriteSnapshots>false</overWriteSnapshots>
-                        <overWriteIfNewer>true</overWriteIfNewer>
-                    </configuration>
-                </execution>
-            </executions>
-        </plugin>
-        <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-jar-plugin</artifactId>
-            <configuration>
-                <archive>
-                    <manifest>
-                        <addClasspath>true</addClasspath>
-                        <classpathPrefix>lib/</classpathPrefix>
-                        <mainClass>theMainClass</mainClass>
-                    </manifest>
-                </archive>
-            </configuration>
-        </plugin> 
-		</plugins>
-	 	</pluginManagement>
+
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-assembly-plugin</artifactId>
+					<executions>
+						<execution>
+							<id>make-provider</id><!-- 随便一个名字 -->
+							<phase>package</phase><!-- 绑定到package生命周期阶段上 -->
+							<goals>
+								<goal>single</goal><!-- 只运行一次 -->
+							</goals>
+							<configuration>
+								<skipAssembly>false</skipAssembly><!-- 跳过这个执行器 -->
+								<finalName>zhangpai-rsc-provider</finalName>
+								<!-- 描述符文件 -->
+								<descriptors>
+									<descriptor>assembly_provider.xml</descriptor>
+								</descriptors>
+							</configuration>
+						</execution>
+
+						<execution>
+							<id>make-consumer</id>
+							<phase>package</phase>
+							<goals>
+								<goal>single</goal>
+							</goals>
+							<configuration>
+								<finalName>zhangpai-rsc-provider</finalName>
+								<descriptors>
+									<descriptor>assembly_consumer.xml</descriptor>
+								</descriptors>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>
+
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-dependency-plugin</artifactId>
+					<executions>
+						<execution>
+							<id>copy-dependencies</id>
+							<phase>prepare-package</phase>
+							<goals>
+								<goal>copy-dependencies</goal>
+							</goals>
+							<configuration>
+								<outputDirectory>target/lib</outputDirectory>
+								<overWriteReleases>false</overWriteReleases>
+								<overWriteSnapshots>false</overWriteSnapshots>
+								<overWriteIfNewer>true</overWriteIfNewer>
+							</configuration>
+						</execution>
+					</executions>
+				</plugin>
+				<plugin>
+					<groupId>org.apache.maven.plugins</groupId>
+					<artifactId>maven-jar-plugin</artifactId>
+					<configuration>
+						<archive>
+							<manifest>
+								<addClasspath>true</addClasspath>
+								<classpathPrefix>lib/</classpathPrefix>
+								<mainClass>theMainClass</mainClass>
+							</manifest>
+						</archive>
+					</configuration>
+				</plugin>
+			</plugins>
+		</pluginManagement>
 
 		<defaultGoal>compile</defaultGoal>
 
-		
 	</build>
- 
+
 
 </project>

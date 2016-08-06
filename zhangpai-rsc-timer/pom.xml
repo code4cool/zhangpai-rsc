@@ -16,6 +16,23 @@
 	</properties>
 
 	<dependencies>
+		<!-- project dependency -->
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rabbit-framework</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rsc-thrift</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rsc-model</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
@@ -38,24 +55,9 @@
 			<version>1.7.5</version>
 		</dependency>
 		<dependency>
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rabbit-framework</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.17</version>
-		</dependency>
-		<dependency>
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rsc-thrift</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rsc-model</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		
 		<!-- Spring Dependency -->
@@ -86,6 +88,7 @@
 		</dependency>
 		
 	</dependencies>
+
 
 	<build>
 		<pluginManagement>

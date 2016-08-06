@@ -1,21 +1,37 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  
-  <groupId>zhangpai-rsc</groupId>
-	  <artifactId>zhangpai-rsc-scheduler</artifactId>
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>zhangpai-rsc</groupId>
+	<artifactId>zhangpai-rsc-scheduler</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-   
 
-  <name>zhangpai-rsc-scheduler</name>
-  <url>http://maven.apache.org</url>
+	<name>zhangpai-rsc-scheduler</name>
+	<url>http://maven.apache.org</url>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
 
-<dependencies>
+	<dependencies>
+		<!-- project dependency -->
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rabbit-framework</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rsc-thrift</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rsc-model</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
@@ -38,36 +54,21 @@
 			<version>1.7.5</version>
 		</dependency>
 		<dependency>
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rabbit-framework</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>5.1.17</version>
 		</dependency>
 		<dependency>
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rsc-thrift</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<groupId>org.springframework.data</groupId>
+			<artifactId>spring-data-redis</artifactId>
+			<version>1.0.3.RELEASE</version>
 		</dependency>
 		<dependency>
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rsc-model</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<groupId>com.sun.org.apache.xml.internal</groupId>
+			<artifactId>resolver</artifactId>
+			<version>20050927</version>
 		</dependency>
-		<dependency>
-            <groupId>org.springframework.data</groupId>
-            <artifactId>spring-data-redis</artifactId>
-            <version>1.0.3.RELEASE</version>
-        </dependency>
-        <dependency>
-		    <groupId>com.sun.org.apache.xml.internal</groupId>
-		    <artifactId>resolver</artifactId>
-		    <version>20050927</version>
-		</dependency>
-	 
-        
+
+
 	</dependencies>
 </project>

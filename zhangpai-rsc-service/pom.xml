@@ -1,28 +1,24 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-  
-  	<parent>
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<parent>
 		<groupId>zhangpai-rsc</groupId>
 		<artifactId>zhangpai-rsc-parant</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../zhangpai-rsc-parant/pom.xml</relativePath>
 	</parent>
-	
 
-   
-  <artifactId>zhangpai-rsc-service</artifactId>
- 
-  <packaging>jar</packaging>
+	<artifactId>zhangpai-rsc-service</artifactId>
+	<name>zhangpai-rsc-service</name>
+	<packaging>jar</packaging>
+	<url>http://maven.apache.org</url>
 
-  <name>zhangpai-rsc-service</name>
-  <url>http://maven.apache.org</url>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-
-  <dependencies>
+	<dependencies>
 		<dependency>
 			<groupId>zhangpai-rsc</groupId>
 			<artifactId>zhangpai-rsc-model</artifactId>

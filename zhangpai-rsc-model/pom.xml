@@ -1,7 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
-  <modelVersion>4.0.0</modelVersion>
-
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
 
 	<parent>
 		<groupId>zhangpai-rsc</groupId>
@@ -9,17 +8,17 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../zhangpai-rsc-parant/pom.xml</relativePath>
 	</parent>
+	
 	<artifactId>zhangpai-rsc-model</artifactId>
+	<name>zhangpai-rsc-model</name>
 	<packaging>jar</packaging>
-	 
-    <name>zhangpai-rsc-model</name>
-    <url>http://maven.apache.org</url>
+	<url>http://maven.apache.org</url>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-  
-  	<dependencies>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
 		<dependency>
 			<groupId>zhangpai-rsc</groupId>
 			<artifactId>zhangpai-rabbit-framework</artifactId>
@@ -27,7 +26,7 @@
 		</dependency>
 	</dependencies>
 
-   <build>
+	<build>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
@@ -39,5 +38,5 @@
 			</plugin>
 		</plugins>
 	</build>
- 
+
 </project>

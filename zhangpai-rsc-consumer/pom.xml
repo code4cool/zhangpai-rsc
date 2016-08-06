@@ -8,15 +8,36 @@
 		<version>0.0.1-SNAPSHOT</version>
 		<relativePath>../zhangpai-rsc-parant/pom.xml</relativePath>
 	</parent>
-	<artifactId>zhangpai-rsc-consumer</artifactId>
-     
-       <packaging>jar</packaging>
 
+	<artifactId>zhangpai-rsc-consumer</artifactId>
 	<name>zhangpai-rsc-consumer</name>
+	<packaging>jar</packaging>
 	<url>http://maven.apache.org</url>
 
 	<dependencies>
-	<dependency>
+		<!-- project dependency -->
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rabbit-framework</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rsc-provider</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rsc-service</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>zhangpai-rsc</groupId>
+			<artifactId>zhangpai-rsc-thrift</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		
+		<dependency>
 			<groupId>com.alibaba</groupId>
 			<artifactId>dubbo</artifactId>
 		</dependency>
@@ -38,9 +59,9 @@
 			<artifactId>commons-codec</artifactId>
 		</dependency>
 		<dependency>
-		    <groupId>org.apache.commons</groupId>
-		    <artifactId>commons-lang3</artifactId>
-		    <version>3.4</version>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+			<version>3.4</version>
 		</dependency>
 
 		<dependency>
@@ -71,7 +92,7 @@
 			<groupId>org.apache.tomcat</groupId>
 			<artifactId>servlet-api</artifactId>
 		</dependency>
-		
+
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>
@@ -108,35 +129,12 @@
 			<groupId>com.caucho</groupId>
 			<artifactId>hessian</artifactId>
 		</dependency>
-		<dependency>
-
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rabbit-framework</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
- 
-		<dependency>
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rsc-provider</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-		<dependency>
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rsc-service</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
 		
-		<dependency>
-			<groupId>zhangpai-rsc</groupId>
-			<artifactId>zhangpai-rsc-thrift</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-			
 	</dependencies>
-	 
-<build>
-		
-	 <plugins>
+
+	<build>
+
+		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-assembly-plugin</artifactId>
@@ -156,14 +154,14 @@
 							</descriptors>
 						</configuration>
 					</execution>
-					 
+
 				</executions>
 			</plugin>
 		</plugins>
 
-<defaultGoal>compile</defaultGoal>
+		<defaultGoal>compile</defaultGoal>
 
-		
+
 	</build>
-	 
+
 </project>
